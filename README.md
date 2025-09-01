@@ -21,7 +21,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Scrimba-Password-Generator.git
+git clone https://github.com/yourusername/Scrimba_Password_Generator.git
 
 # Navigate into the project folder
 cd Scrimba-Password-Generator
