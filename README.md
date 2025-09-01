@@ -1,6 +1,6 @@
 # Scrimba Password Generator 🔑
 
-A simple and customizable password generator built with **Vite**, **JavaScript**, **HTML**, and **CSS**.  
+A simple and customizable password generator built with**JavaScript**, **HTML**, and **CSS**.  
 This project was created as part of the Scrimba Frontend Developer Path to practice DOM manipulation, event handling, and responsive design.
 
 ---
@@ -11,7 +11,7 @@ This project was created as part of the Scrimba Frontend Developer Path to pract
 ---
 
 ## 📸 Screenshot
-![Password Generator Screenshot](./images/Screenshot Password Generator.png) <!-- Update with actual screenshot file -->
+![Password Generator Screenshot](./images/Screenshot_Password_Generator.png) <!-- Update with actual screenshot file -->
 
 ---
 
