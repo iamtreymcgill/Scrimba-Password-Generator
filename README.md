@@ -65,14 +65,13 @@ The app will be running at [http://localhost:5173](http://localhost:5173).
 
 ## 🤔 Future Improvements
 - Dark/Light theme toggle
-- Password strength indicator
-- Save password history
-- Deploy final version to Netlify
+- Password Length Input
+- Option to add or remove Symbol and Number characters
 
 ---
 
 ## 🙌 Acknowledgements
-This project is part of the [Scrimba Frontend Career Path](https://scrimba.com/learn/frontend).  
+This project is part of the [Scrimba Fullstack Developer Path](https://scrimba.com/fullstack-path-c0fullstack).  
 Special thanks to the Scrimba community for their support and resources. 💜
 
 ---
