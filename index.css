@@ -1,3 +1,87 @@
+:root {
+    --bg-color: #1F2937;
+    --primary-color: #4ADF86;
+    --medium-gray: #D5D4D8;
+    --btn-color: #10B981;
+    --text-color: #55F991;
+    --field-bg-color: #273549;
+}
+
 body {
     margin: 0;
+    background-color: var(--bg-color);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+
+}
+
+#title-el-1{
+    font-family: 'Karla', sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+    color:white;
+    margin-top: 0px;
+    margin-bottom: 1px;
+}
+
+#title-el-2{
+    font-family: 'Karla', sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+    color: var(--primary-color);
+    margin: 1px 0px 4px 0px;
+}
+
+#subtitle{
+    font-family: 'Karla', sans-serif;
+    font-weight: 200;
+    font-size: 24px;
+    color: var(--medium-gray);
+    margin: 4px 0px;
+}
+
+#btn{
+    background-color: var(--btn-color);
+    border-style: none;
+    width: 200px;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 10px 2px;
+    border-radius: 4px;
+    margin: 50px 0px 30px 0px;
+}
+#btn:hover {
+    cursor: pointer;
+    background-color: #0E9F6E;
+}
+
+
+hr {
+    border: 1px solid var(--field-bg-color);
+    margin: 0px 0px 30px 0px;
+}
+
+
+#pw-fields {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+}
+
+.pw-field{
+    background-color: var(--field-bg-color);
+    border-style: none;
+    color: var(--text-color);
+    width: 300px;
+    font-family: 'Karla', sans-serif;
+    font-weight: 200;
+    padding: 16px 8px;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: 0px;
 }
