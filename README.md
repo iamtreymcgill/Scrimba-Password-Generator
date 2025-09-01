@@ -1,19 +1,81 @@
-# Getting Started
-Install the dependencies and run the project
-```
+# Scrimba Password Generator 🔑
+
+A simple and customizable password generator built with **Vite**, **JavaScript**, **HTML**, and **CSS**.  
+This project was created as part of the Scrimba Frontend Developer Path to practice DOM manipulation, event handling, and responsive design.
+
+---
+
+## 🚀 Live Demo
+[View Live Site](#) <!-- Replace # with your Netlify or GitHub Pages link -->
+
+---
+
+## 📸 Screenshot
+![Password Generator Screenshot](./images/Screenshot Password Generator.png) <!-- Update with actual screenshot file -->
+
+---
+
+## 🛠️ Getting Started
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/Scrimba-Password-Generator.git
+
+# Navigate into the project folder
+cd Scrimba-Password-Generator
+
+# Install dependencies
 npm install
-npm start
+
+# Start development server
+npm run dev
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+The app will be running at [http://localhost:5173](http://localhost:5173).
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+---
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## ✨ Features
+- Generate strong random passwords instantly
+- Option to include/exclude:
+  - Uppercase letters
+  - Numbers
+  - Symbols
+- Copy-to-clipboard functionality
+- Responsive design for desktop and mobile
 
-Happy Coding!
+---
+
+## 🧑‍💻 Built With
+- HTML5
+- CSS3 (Flexbox & Grid)
+- Vanilla JavaScript (ES6+)
+
+---
+
+## 📚 What I Learned
+- Using `Math.random()` with character sets to generate unique passwords
+- Event listeners for interactive UI
+- Managing state and user preferences
+- Practicing clean, semantic HTML and modular CSS
+
+---
+
+## 🤔 Future Improvements
+- Dark/Light theme toggle
+- Password strength indicator
+- Save password history
+- Deploy final version to Netlify
+
+---
+
+## 🙌 Acknowledgements
+This project is part of the [Scrimba Frontend Career Path](https://scrimba.com/learn/frontend).  
+Special thanks to the Scrimba community for their support and resources. 💜
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
