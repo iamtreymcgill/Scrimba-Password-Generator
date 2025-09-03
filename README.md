@@ -6,7 +6,7 @@ This project was created as part of the Scrimba Frontend Developer Path to pract
 ---
 
 ## 🚀 Live Demo
-[View Live Site](#) <!-- Replace # with your Netlify or GitHub Pages link -->
+[View Live Site](iamtreymcgill-password-generator.netlify.app) <!-- Replace # with your Netlify or GitHub Pages link -->
 
 ---
 
